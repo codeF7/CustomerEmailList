@@ -1,0 +1,9 @@
+c:\users\gabriel\documents\visual studio 2012\Projects\PersonAndCustomerClass\PersonAndCustomerClass\bin\Debug\PersonAndCustomerClass.exe.config
+c:\users\gabriel\documents\visual studio 2012\Projects\PersonAndCustomerClass\PersonAndCustomerClass\bin\Debug\PersonAndCustomerClass.exe
+c:\users\gabriel\documents\visual studio 2012\Projects\PersonAndCustomerClass\PersonAndCustomerClass\bin\Debug\PersonAndCustomerClass.pdb
+c:\users\gabriel\documents\visual studio 2012\Projects\PersonAndCustomerClass\PersonAndCustomerClass\obj\Debug\PersonAndCustomerClass.csprojResolveAssemblyReference.cache
+c:\users\gabriel\documents\visual studio 2012\Projects\PersonAndCustomerClass\PersonAndCustomerClass\obj\Debug\PersonAndCustomerClass.Form1.resources
+c:\users\gabriel\documents\visual studio 2012\Projects\PersonAndCustomerClass\PersonAndCustomerClass\obj\Debug\PersonAndCustomerClass.Properties.Resources.resources
+c:\users\gabriel\documents\visual studio 2012\Projects\PersonAndCustomerClass\PersonAndCustomerClass\obj\Debug\PersonAndCustomerClass.csproj.GenerateResource.Cache
+c:\users\gabriel\documents\visual studio 2012\Projects\PersonAndCustomerClass\PersonAndCustomerClass\obj\Debug\PersonAndCustomerClass.exe
+c:\users\gabriel\documents\visual studio 2012\Projects\PersonAndCustomerClass\PersonAndCustomerClass\obj\Debug\PersonAndCustomerClass.pdb
